@@ -1,1 +1,1 @@
-# CalculadoraSimples
+Este programa é uma calculadora simples feita em Java. Ao executar, o usuário digita dois números e escolhe uma operação: +, -, * ou /. O resultado é exibido no terminal. Se tentar dividir por zero, o programa avisa que a operação é inválida. Operações não reconhecidas também geram erro.
